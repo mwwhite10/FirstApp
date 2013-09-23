@@ -1,0 +1,16 @@
+* {
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+body {
+  background-color: #888;
+}
+#wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #ccc;
+}
+footer {
+  text-align: center;
+}

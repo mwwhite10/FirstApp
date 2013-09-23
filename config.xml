@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id = "net.mwwhite.FirstApp"
+versionCode="10" 
+version = "1.0.0">
+
+
+	<name>N322 First App</name>
+
+	<description>
+		This is the first app for N322
+	</description>
+
+	<author href="https://thedevbox.us" email="todd@thedevbox.us">
+		Dev Workshop Indy Basic Config xml
+	</author>
+
+	<icon src="images/icon512.png" />
+
+
+</widget>
